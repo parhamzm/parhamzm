@@ -50,7 +50,7 @@ I tried to use my bachelor's to build a solid bedrock for my future research. So
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | p.zilouchian@gmail.com |
 | 🌐 Personal Page 👉 | [parhamzm.github.io](https://parhamzm.github.io/) |
-|  [Linkedin](https://www.linkedin.com/in/parhamzm/)  | [Skype](https://join.skype.com/invite/cl7zPhEqCAwf)  |
+|  ![image](https://user-images.githubusercontent.com/20870674/130335168-c749c13c-a1ee-450a-9424-7f27e96d20f3.png)[Linkedin](https://www.linkedin.com/in/parhamzm/)  | [Skype](https://join.skype.com/invite/bOQdnE82TBug)  |
 
 ## More
 
