@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 # Hello, My name is Parham!
 
-I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en) where I am a member of the Network on Chip Lab (NOC), advised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en) and [Dr. Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
+I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en) where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en) and Advised by [Dr. Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
 
 Prior to MS.c, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2019. 
 
