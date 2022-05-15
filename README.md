@@ -34,6 +34,15 @@ I tried to use my bachelor's to build a solid bedrock for my future research. So
 - Big Data
 
 
+## ML/DL
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -61,5 +70,5 @@ I tried to use my bachelor's to build a solid bedrock for my future research. So
 
 
 <!--
-**alikarimi120/alikarimi120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**parhamzm/parhamzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
