@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-# Hello, My name is Parham!
+
+<h1 align="center">Hi 👋, I'm Parham</h1>
+<h3 align="center">Enthusiastic about Machine Learning and any Data related topic</h3>
+
+- 🔭 I’m currently working on **Using Deep Learning techniques for Video Compression**
 
 I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en) where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en) and Advised by [Dr. Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
 
@@ -33,6 +36,9 @@ I tried to use my bachelor's to build a solid bedrock for my future research. So
 - Machine Vision, Image & Video Processing
 - Big Data
 
+
+<h3 align="left">Main Programming-Languages:</h3>
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
 
 ## ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -60,6 +66,14 @@ I tried to use my bachelor's to build a solid bedrock for my future research. So
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | p.zilouchian@gmail.com |
 | 🌐 Personal Page 👉 | [parhamzm.github.io](https://parhamzm.github.io/) |
 | [Linkedin](https://www.linkedin.com/in/parhamzm/)  | [Skype](https://join.skype.com/invite/bOQdnE82TBug)  |
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/p_zilouchian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirh_mesbah" height="30" width="40" /></a>
+<a href="https://github.com/parhamzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parhamzm/" height="30" width="40" /></a>
+<a href="https://kaggle.com/parhamzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amir98msbh" height="30" width="40" /></a>
+</p>
 
 
 ## More
