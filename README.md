@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Parham</h1>
 <h3 align="center">Enthusiastic about Machine Learning and any Data related topic</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-mesbah&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-mesbah" /> </p>
+
 - 🔭 I’m currently working on **Using Deep Learning techniques for Video Compression**
 
 I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en) where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en) and Advised by [Dr. Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
