@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Parham</h1>
 <h3 align="center">Enthusiastic about Machine Learning and any Data related topic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-mesbah&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-mesbah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parhamzm&label=Profile%20views&color=0e75b6&style=flat" alt="parhamzm" /> </p>
 
 - 🔭 I’m currently working on **Using Deep Learning techniques for Video Compression**
 
