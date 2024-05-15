@@ -23,20 +23,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Using Deep Learning techniques for Video Compression**
 
-I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en) where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en) and Advised by [Dr. Amin Sadeghi](https://scholar.google.com/citations?user=Viogmi8AAAAJ&hl=en). my research involves machine learning, deep learning, and neural networks.
+I am currently a second-year 𝐌𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en), where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en).
 
 Prior to MS.c, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2019. 
 
 <!--
-I tried to use my bachelor's to build a solid bedrock for my future research. So in addition to taking many optional graduate-level courses on math and computer science. I spent a year as a Research Assistant at the Computer Networks Laboratory at the Bu-Ali Sina University where I completed my thesis on Evaluating and Improving the LoRa Protocol performance.
+I tried to use my bachelor's to build a solid bedrock for my future research. So, in addition to taking many optional graduate-level courses in math and computer science, I spent a year as a Research Assistant at the Computer Networks Laboratory at the University of Kashan, where I conducted my research on Augmented and Virtual Reality.
 
 -->
 
-
-## My main research interests
-- Machine Learning, Deep Learning
-- Machine Vision, Image & Video Processing
-- Big Data
 
 
 <h3 align="left">Main Programming-Languages:</h3>
