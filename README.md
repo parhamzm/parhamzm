@@ -1,85 +1,83 @@
+<div align="center">
+  <h1>Parham Zilouchian Moghaddam</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D96690&width=435&lines=AI+Researcher+%7C+Computer+Vision+%7C+Generative+Models" alt="Typing SVG" /></a>
+</div>
 
+<br>
 
-<!--
-**parhamzm/parhamzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://parhamzm.github.io/">
+    <img src="https://img.shields.io/badge/Website-d96690?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:p.zilouchian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  </div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
 
+[cite_start]I am an AI researcher specializing in **Deep Learning**, **Generative Models**, and **Computer Vision**[cite: 15, 20, 22, 24]. [cite_start]I recently graduated with an M.Sc. in Computer Engineering from the University of Tehran, where I was ranked 1st in my cohort[cite: 86]. My research is driven by a passion for creating efficient and novel AI models to solve complex, real-world problems.
 
-<h1 align="center">Hi 👋, I'm Parham</h1>
-<h3 align="center">Enthusiastic about Machine Learning and any Data related topic</h3>
+[cite_start]Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)**, where I am contributing to **Fanar**, an Arabic-centric multimodal generative AI platform[cite: 30, 34]. [cite_start]I have been offered admission to the **Ph.D. program in Computer Science at the University of California, Irvine (UCI)** for Fall 2025[cite: 80].
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parhamzm&label=Profile%20views&color=0e75b6&style=flat" alt="parhamzm" /> </p>
+---
 
-- 🔭 I’m currently working on **Using noval techniques for Video Compression**
+### 🚀 My Current Focus
 
-I have finished my 𝐌𝐒𝐜 at the Department of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en), where I am a member of the Network on Chip Lab (NOC), Supervised by [Dr. Mehdi Modarressi](https://scholar.google.com/citations?user=z7UNzUoAAAAJ&hl=en).
+* [cite_start]**Generative AI for Cultural Alignment:** Developing image generation models for the Fanar project at QCRI[cite: 34].
+* [cite_start]**Voice Adaptation:** Designing a pioneering generative network for voice adaptation in speech processing at the University of Tehran's Computer Vision Lab[cite: 38].
+* [cite_start]**AI Model Optimization:** Enhancing the efficiency of GANs and LSTMs using neural network acceleration techniques for applications in video compression and portable healthcare[cite: 43, 45].
 
-Prior to MS.c, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Electrical and Computer Engineering, [University of Kashan](https://kashanu.ac.ir/en), in August 2019. 
+---
 
-<!--
-I tried to use my bachelor's to build a solid bedrock for my future research. So, in addition to taking many optional graduate-level courses in math and computer science, I spent a year as a Research Assistant at the Computer Networks Laboratory at the University of Kashan, where I conducted my research on Augmented and Virtual Reality.
+### 🛠️ My Tech Stack & Tools
 
--->
-
-
-
-<h3 align="left">Main Programming-Languages:</h3>
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
-
-## Tools
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-## Contact information:
-
-| Social Networks  | 🔗 Link          |
-|-----------|--------------------|
-| 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | p.zilouchian@gmail.com |
-| 🌐 Personal Page 👉 | [parhamzm.github.io](https://parhamzm.github.io/) |
-| [Linkedin](https://www.linkedin.com/in/parhamzm/)  | [Skype](https://join.skype.com/invite/bOQdnE82TBug)  |
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/p_zilouchian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirh_mesbah" height="30" width="40" /></a>
-<a href="https://github.com/parhamzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parhamzm/" height="30" width="40" /></a>
-<a href="https://kaggle.com/parhamzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amir98msbh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,numpy,pandas,cpp,java,matlab,js,html,css,react,django,nodejs,flask,postgres,mysql,gcp,git,docker,unity,vscode,pycharm,vim" />
+  </a>
 </p>
 
+---
 
-## More
+### 📊 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamzm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parhamzm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhamzm&layout=compact&langs_count=8&theme=dracula"/>
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=parhamzm&amp;show_icons=true" alt="GitHub Stats"></p>
+---
 
+### 📚 Selected Publications & Projects
 
-<!--
-**parhamzm/parhamzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<details>
+<summary><strong>📝 Publications</strong> (click to expand)</summary>
+<br>
+
+- [cite_start]**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement** [cite: 62]  
+  *P.Z. Moghaddam, Mehdi Modarressi, M.A. Sadeghi* *Elsevier Engineering Applications of Artificial Intelligence Journal, 2025* [cite: 63, 64]
+
+- [cite_start]**Smart Memory: Deep Learning Acceleration In 3D-Stacked Memories** [cite: 65]  
+  *SHSA Rezaei, P.Z. [cite_start]Moghaddam, Mehdi Modarressi* *Computer Architecture Letters (CAL) Journal, 2023* [cite: 65, 67]
+
+- **Deep Learning based on Support Vector Machine (SVM)** [cite: 71]  
+  *P.Z. Moghaddam, J.S. [cite_start]Sartakhti* *5th National Conference on Distributed Computing and Big Data Processing, 2019* [cite: 72, 73]
+
+</details>
+
+<details>
+<summary><strong>💻 Academic Projects</strong> (click to expand)</summary>
+<br>
+
+- [cite_start]**Denoising Diffusion Probabilistic Models (DDPM):** Developed a DDPM to reduce noise and enhance image clarity for feature analysis[cite: 141].
+- [cite_start]**Image Segmentation with U-Net:** Built an application for semantic segmentation of images from a self-driving car dataset[cite: 143, 145].
+- [cite_start]**Music Generation with LSTMs:** Created an application using LSTM layers to generate music in different genres, with a focus on efficiency improvements via techniques like Delta-RNN and Quantization[cite: 154, 155, 156].
+- [cite_start]**Car Detection with YOLO:** Developed an application to detect cars in street images and draw bounding boxes around them[cite: 149, 151].
+- [cite_start]**Parkinson's Disease Classifier:** Designed multiple classifiers (KNN, DNN, etc.) using over 700 features, achieving 98.3% accuracy[cite: 161, 163].
+
+</details>
+
+---
