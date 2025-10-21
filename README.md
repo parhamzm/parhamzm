@@ -18,17 +18,17 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an AI researcher specializing in **Deep Learning**, **Generative Models**, and **Computer Vision**[cite: 20, 22, 24]. [cite_start]I recently graduated with an M.Sc. in Computer Engineering from the University of Tehran, where I was ranked 1st in my cohort[cite: 7, 86]. My research is driven by a passion for creating efficient and novel AI models to solve complex, real-world problems.
+I am an AI researcher specializing in **Deep Learning**, **Generative Models**, and **Computer Vision**. I recently graduated with an M.Sc. in Computer Engineering from the University of Tehran, where I was ranked 1st in my cohort. My research is driven by a passion for creating efficient and novel AI models to solve complex, real-world problems.
 
-[cite_start]Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)**, where I am contributing to **Fanar**, an Arabic-centric multimodal generative AI platform[cite: 30, 33, 34].
+Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)**, where I am contributing to **Fanar**, an Arabic-centric multimodal generative AI platform.
 
 ---
 
 ### 🚀 My Current Focus
 
-* [cite_start]**Generative AI for Cultural Alignment:** Contributing to the development of image generation models for the Fanar project at QCRI[cite: 34].
-* [cite_start]**Voice Adaptation:** Designing a pioneering generative network for voice adaptation in speech processing at the University of Tehran's Computer Vision Lab[cite: 36, 38].
-* [cite_start]**AI Model Optimization:** Enhancing the efficiency of GANs and LSTMs using neural network acceleration techniques for applications in video compression and portable healthcare[cite: 43, 45].
+* **Generative AI for Cultural Alignment**: Contributing to the development of image generation models for the Fanar project at QCRI.
+* **Voice Adaptation**: Designing a pioneering generative network for voice adaptation in speech processing at the University of Tehran's Computer Vision Lab.
+* **AI Model Optimization**: Enhancing the efficiency of GANs and LSTMs using neural network acceleration techniques for applications in video compression and portable healthcare.
 
 ---
 
