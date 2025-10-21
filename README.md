@@ -36,7 +36,7 @@ Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)*
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,numpy,pandas,cpp,java,matlab,r,julia,js,html,css,react,django,nodejs,flask,fastapi,postgres,mysql,gcp,hadoop,git,docker,unity,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,cpp,java,matlab,r,julia,js,html,css,react,django,nodejs,flask,fastapi,postgres,mysql,gcp,hadoop,git,docker,unity,vscode,pycharm" />
   </a>
 </p>
 
