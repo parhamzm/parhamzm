@@ -57,14 +57,11 @@ Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)*
 <summary><strong>📝 Publications</strong> (click to expand)</summary>
 <br>
 
-- [cite_start]**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement** [cite: 62]  
-  *P.Z. [cite_start]Moghaddam, Mehdi Modarressi, M.A. Sadeghi* *Elsevier Engineering Applications of Artificial Intelligence Journal, 2025* [cite: 63, 64]
+- **NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement** *P.Z. Moghaddam, Mehdi Modarressi, M.A. Sadeghi* *Elsevier Engineering Applications of Artificial Intelligence Journal, 2025*
 
-- [cite_start]**Smart Memory: Deep Learning Acceleration In 3D-Stacked Memories** [cite: 65]  
-  *SHSA Rezaei, P.Z. [cite_start]Moghaddam, Mehdi Modarressi* *Computer Architecture Letters (CAL) Journal, 2023* [cite: 65, 67]
+- **Smart Memory: Deep Learning Acceleration In 3D-Stacked Memories** *SHSA Rezaei, P.Z. Moghaddam, Mehdi Modarressi* *Computer Architecture Letters (CAL) Journal, 2023*
 
-- [cite_start]**Deep Learning based on Support Vector Machine (SVM)** [cite: 71]  
-  *P.Z. Moghaddam, J.S. [cite_start]Sartakhti* *5th National Conference on Distributed Computing and Big Data Processing, 2019* [cite: 72, 73]
+- **Deep Learning based on Support Vector Machine (SVM)** *P.Z. Moghaddam, J.S. Sartakhti* *5th National Conference on Distributed Computing and Big Data Processing, 2019*
 
 </details>
 
@@ -72,11 +69,11 @@ Currently, I am a **Researcher at the Qatar Computing Research Institute (QCRI)*
 <summary><strong>💻 Academic Projects</strong> (click to expand)</summary>
 <br>
 
-- [cite_start]**Denoising Diffusion Probabilistic Models (DDPM):** Developed a DDPM to reduce noise and enhance image clarity for feature analysis[cite: 141].
-- [cite_start]**Image Segmentation with U-Net:** Built an application for semantic segmentation of images from a self-driving car dataset[cite: 143, 145].
-- [cite_start]**Music Generation with LSTMs:** Created an application using LSTM layers to generate music in different genres [cite: 154, 155][cite_start], with a focus on efficiency improvements via techniques like Delta-RNN and Quantization[cite: 156].
-- [cite_start]**Car Detection with YOLO:** Developed an application to detect cars in street images and draw bounding boxes around them[cite: 149, 151].
-- [cite_start]**Parkinson's Disease Classifier:** Designed multiple classifiers (KNN, DNN, etc.) using over 700 features, achieving 98.3% accuracy[cite: 161, 163].
+- **Denoising Diffusion Probabilistic Models (DDPM):** Developed a DDPM to reduce noise and enhance image clarity for feature analysis.
+- **Image Segmentation with U-Net:** Built an application for semantic segmentation of images from a self-driving car dataset.
+- **Music Generation with LSTMs:** Created an application using LSTM layers to generate music in different genres, with a focus on efficiency improvements via techniques like Delta-RNN and Quantization.
+- **Car Detection with YOLO:** Developed an application to detect cars in street images and draw bounding boxes around them.
+- **Parkinson's Disease Classifier:** Designed multiple classifiers (KNN, DNN, etc.) using over 700 features, achieving 98.3% accuracy.
 
 </details>
 
