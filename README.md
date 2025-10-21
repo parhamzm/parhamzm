@@ -1,5 +1,5 @@
 <div align="center">
-  [cite_start]<h1>Parham Zilouchian Moghaddam [cite: 1]</h1>
+  <h1>Parham Zilouchian Moghaddam</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D96690&width=735&lines=AI+Researcher+%7C+Computer+Vision+%7C+Generative+Models" alt="Typing SVG" /></a>
 </div>
 
@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://parhamzm.github.io/">
-    <img src="https://img-shields.io/badge/Website-d96690?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-d96690?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
   <a href="mailto:p.zilouchian@gmail.com">
-    <img src="https://img-shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   </div>
 
