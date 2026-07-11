@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Header with animated typing -->
 <a href="https://parhamzm.github.io/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parham%20Zilouchian%20Moghaddam&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Researcher%20·%20Generative%20Models%20·%20Computer%20Vision%20·%20Trustworthy%20AI&descAlignY=52&descSize=16" width="100%"/>
 </a>
@@ -54,8 +53,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 - **University of Tehran** — Research Assistant
   - Computer Vision Lab *(Dr. Tavassolipour, Dr. Modarressi)*
   - Intelligent Architectures Lab *(Dr. Modarressi)*
-- **QCRI, Hamad Bin Khalifa Univ.** — Researcher
-  - Fanar Project *(Dr. Sadeghi, Dr. Al‑Nuaimi)*
+  - Computational Modeling & ML Lab *(Dr. Modarressi, Dr. Sadeghi)*
 
 </td>
 </tr>
@@ -97,23 +95,51 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 
 ## 🔭 Research Experience
 
-```
-📍 Computer Vision Lab, University of Tehran                    Apr 2024 – Present
-   └─ Trustworthy AI: robustness & fairness in generative/vision models
-   └─ Hybrid generative–algorithmic framework for industrial pattern design
-
-📍 Qatar Computing Research Institute (QCRI)                   Mar 2025 – Mar 2026
-   └─ Core contributor to Fanar: Arabic‑centric multimodal generative AI
-   └─ Led culturally‑aligned image generation; built evaluation toolbox
-
-📍 Intelligent Architectures Lab, University of Tehran          Nov 2019 – Present
-   └─ GAN inference optimization (pruning, quantization, HW‑aware design)
-   └─ Energy‑efficient LSTMs for wearable health devices
-
-📍 Computational Modeling & ML Lab, University of Tehran        Jan 2020 – Mar 2023
-   └─ NU‑Class Net: ~7× video compression with perceptual quality preservation
-   └─ Published in Elsevier Engineering Applications of AI (Q1)
-```
+<table>
+<tr>
+<td><b>📍 Computer Vision Lab</b><br>University of Tehran</td>
+<td>Apr 2024 – Present</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;• Investigating reliability and trustworthiness in generative and vision models (robustness & fairness)<br>
+&nbsp;&nbsp;• Developing a hybrid generative–algorithmic framework for industrial carpet pattern design
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td><b>📍 Qatar Computing Research Institute (QCRI)</b><br>Hamad Bin Khalifa University, Doha</td>
+<td>Mar 2025 – Mar 2026</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;• Core contributor to Fanar — Arabic‑centric multimodal generative AI platform<br>
+&nbsp;&nbsp;• Led culturally‑aligned image generation; built evaluation toolbox & benchmarking pipeline
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td><b>📍 Intelligent Architectures Lab</b><br>University of Tehran</td>
+<td>Nov 2019 – Present</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;• Optimizing GAN inference efficiency via pruning, quantization, and hardware‑aware design<br>
+&nbsp;&nbsp;• Designing energy‑efficient LSTMs for wearable health devices
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td><b>📍 Computational Modeling & ML Lab</b><br>University of Tehran</td>
+<td>Jan 2020 – Mar 2023</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;• Developed NU‑Class Net: ~7× video compression with perceptual quality preservation<br>
+&nbsp;&nbsp;• Published in Elsevier Engineering Applications of AI (Q1)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,9 +231,19 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=parhamzm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parhamzm&theme=github_dark" width="100%" alt="Contribution Graph"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parhamzm&theme=github_dark" height="170em" alt="GitHub Stats"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhamzm&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamzm&theme=github_dark" height="170em" alt="Top Languages"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parhamzm&theme=github_dark&utcOffset=3.5" height="170em" alt="Productive Time"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=parhamzm&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
