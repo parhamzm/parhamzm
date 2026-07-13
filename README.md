@@ -1,19 +1,17 @@
 <div align="center">
 
 <a href="https://parhamzm.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parham%20Zilouchian%20Moghaddam&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Researcher%20·%20Generative%20Models%20·%20Computer%20Vision%20·%20Trustworthy%20AI&descAlignY=52&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parham%20Zilouchian%20Moghaddam&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Generative+Models;Computer+Vision+%7C+Trustworthy+AI;Seeking+Ph.D.+Positions+in+AI%2FML" alt="Typing SVG" />
 </a>
 
 <br>
 
 <a href="https://parhamzm.github.io/">
   <img src="https://img.shields.io/badge/Website-parhamzm.github.io-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-</a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-</a>
-<a href="https://orcid.org/YOUR_ORCID_ID">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
 </a>
 <a href="mailto:p.zilouchian@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -22,15 +20,32 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<!-- TODO: Uncomment and replace with your real IDs when available -->
+<!-- <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+</a>
+<a href="https://orcid.org/YOUR_ORCID_ID">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+</a> -->
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎓_Actively_Seeking_PhD_Positions_in_AI/ML-1f6feb?style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧑‍🔬 About Me
 
 I am an AI researcher working at the intersection of **Generative Models**, **Computer Vision**, and **Trustworthy AI**. I hold an **M.Sc. in Computer Engineering** from the **University of Tehran** (GPA: 19.18/20, **ranked 1st in my cohort**) and a **B.Sc. in Computer Engineering** from the **University of Kashan**.
 
-My work has been published in venues including **Elsevier Engineering Applications of AI (Q1)** and **IEEE Computer Architecture Letters**. I have hands-on industry experience deploying computer vision and generative AI systems at scale, and I am actively seeking **Ph.D. positions** in AI/ML.
+My work has been published in venues including **Elsevier Engineering Applications of AI (Q1, IF: 7.5)** and **IEEE Computer Architecture Letters**. I have hands-on industry experience deploying computer vision and generative AI systems at scale, and I am actively seeking **Ph.D. positions** in AI/ML.
+
+- 🔭 Currently working on **Trustworthy Generative AI** & **Culturally-Aligned Image Generation**
+- 📝 Latest paper: **NU-Class Net** in *Elsevier EAAI* (IF: 7.5, Q1)
+- 🎯 Goal: Ph.D. in AI/ML starting Fall 2026
+- 💬 Ask me about **Diffusion Models, GANs, Video Enhancement, Model Compression**
 
 <br>
 
@@ -59,16 +74,47 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 </tr>
 </table>
 
----
+### 🗺️ Research Landscape
+
+```mermaid
+graph LR
+    A["🎨 Generative Models"] --> B["🖼️ Computer Vision"]
+    A --> C["🔒 Trustworthy AI"]
+    B --> D["📹 Video Enhancement"]
+    C --> E["⚖️ Fairness & Robustness"]
+    A --> F["🌍 Culturally-Aligned Generation"]
+    B --> G["⚡ Efficient Inference"]
+    G --> H["🧠 Model Compression"]
+    C --> I["🎯 Accountable AI"]
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- TODO: Replace "YOUR-REPO-2" with an actual repository name -->
+<a href="https://github.com/parhamzm/NU-Class-Net">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=NU-Class-Net&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/parhamzm/YOUR-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOUR-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📄 Selected Publications
 
-| # | Title | Venue | Year |
-|:-:|-------|-------|:----:|
-| 1 | **NU‑Class Net: A Novel Deep Learning‑based Approach for Video Quality Enhancement** | *Eng. Applications of AI* (Elsevier, **Q1**) · [DOI](https://doi.org/10.1016/j.engappai.2025.110118) | 2025 |
-| 2 | **Smart Memory: Deep Learning Acceleration in 3D‑Stacked Memories** | *IEEE Computer Architecture Letters* · [DOI](https://doi.org/10.1109/LCA.2023.3287976) | 2023 |
-| 3 | **Deep Learning Based on Support Vector Machines** | *5th Nat'l Conf. Distributed Computing & Big Data* | 2019 |
-| 4 | **Improving Robot Behavior in a Real‑Time Game Using the Grey Wolf Optimizer** | *2nd Int'l Computer Games Conf.* | 2019 |
+| # | Title | Venue | Impact | Year |
+|:-:|-------|-------|:------:|:----:|
+| 1 | **NU‑Class Net: A Novel Deep Learning‑based Approach for Video Quality Enhancement** | *Eng. Applications of AI* (Elsevier) · [DOI](https://doi.org/10.1016/j.engappai.2025.110118) | **IF: 7.5, Q1** | 2025 |
+| 2 | **Smart Memory: Deep Learning Acceleration in 3D‑Stacked Memories** | *IEEE Computer Architecture Letters* · [DOI](https://doi.org/10.1109/LCA.2023.3287976) | **IEEE** | 2023 |
+| 3 | **Deep Learning Based on Support Vector Machines** | *5th Nat'l Conf. Distributed Computing & Big Data* | | 2019 |
+| 4 | **Improving Robot Behavior in a Real‑Time Game Using the Grey Wolf Optimizer** | *2nd Int'l Computer Games Conf.* | | 2019 |
 
 #### Preprints & Manuscripts
 
@@ -78,7 +124,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 | 6 | **Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices** | arXiv: [2606.12742](https://arxiv.org/abs/2606.12742) | 2026 |
 | 7 | **Faster Wav2Vec: Improving the Inference Speed of Speech Representation Models** | *Manuscript in preparation* | 2026 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Honors & Awards
 
@@ -91,7 +137,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 <tr><td>🎖️</td><td>Recognized as <b>Distinguished Student</b> by the Exceptional Talents Committee, University of Kashan</td></tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔭 Research Experience
 
@@ -141,7 +187,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Industry Experience
 
@@ -151,7 +197,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 | **Computer Vision Developer** | ModAI | Jul 2024 – Feb 2025 |
 | **Founder & Developer** | TechnoFarsh (B2B/B2C marketplace) | 2017 – 2020 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Technical Skills
 
@@ -188,11 +234,11 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Teaching Experience
 
-> Served as **Head Teaching Assistant** and **Teaching Assistant** for 10+ courses across two universities.
+> Served as **Head Teaching Assistant** and **Teaching Assistant** for **10+ courses** across two universities, mentoring **hundreds of students**.
 
 | Course | Role | University |
 |--------|------|-----------|
@@ -203,7 +249,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 | Artificial Intelligence | Head T.A. | University of Kashan |
 | Data Analysis *(2 semesters)* | T.A. | University of Tehran |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📜 Certifications & Workshops
 
@@ -225,7 +271,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -245,9 +291,50 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 
 <img src="https://streak-stats.demolab.com/?user=parhamzm&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
+<br>
+
+<!-- Snake animation — requires GitHub Actions setup (see instructions below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<!--
+  To enable the snake animation:
+  1. Create a file at .github/workflows/snake.yml in your parhamzm/parhamzm repo
+  2. Add the following workflow:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: parhamzm
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the workflow manually once, then it will update daily
+-->
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -255,7 +342,7 @@ My work has been published in venues including **Elsevier Engineering Applicatio
 
 <br><br>
 
-*"The only way to do great work is to love what you do."* — Steve Jobs
+*"Building AI systems that are not only powerful, but trustworthy and fair."*
 
 <br>
 
