@@ -73,10 +73,6 @@ My work has been published in venues including **Elsevier Engineering Applicatio
   - Computer Vision Lab *(Dr. Tavassolipour, Dr. Modarressi)*
   - Intelligent Architectures Lab *(Dr. Modarressi)*
   - Computational Modeling & ML Lab *(Dr. Modarressi, Dr. Sadeghi)*
-- **QCRI, HBKU** — Researcher
-  - *(Dr. Sadeghi, Dr. Al‑Nuaimi)*
-- **University of Kashan** — Research Assistant
-  - *(Dr. Salimi Sartakhti)*
 
 </td>
 </tr>
@@ -431,24 +427,7 @@ graph LR
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📬 References
-
-<details>
-<summary><b>Academic references</b> (click to expand)</summary>
-<br>
-
-| Name | Title | Affiliation |
-|------|-------|-------------|
-| **Dr. Mehdi Modarressi** | Associate Professor | University of Tehran |
-| **Dr. Javad Salimi Sartakhti** | Associate Professor | University of Kashan |
-| **Dr. Mohammad Amin Sadeghi** | Senior Scientist | Qatar Computing Research Institute (QCRI) |
-| **Dr. Mostafa Tavassolipour** | Assistant Professor | University of Tehran |
-
-*Contact information available upon request.*
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
