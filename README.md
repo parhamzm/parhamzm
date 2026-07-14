@@ -20,19 +20,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<!-- TODO: Uncomment and replace with your real IDs/URLs when available -->
-<!-- <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+<a href="https://scholar.google.com/citations?user=NtzmePcAAAAJ">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
 </a>
-<a href="https://orcid.org/YOUR_ORCID_ID">
+<a href="https://orcid.org/0009-0009-3144-3078">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
 </a>
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@p.zilouchian">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
-<a href="YOUR_YOUTUBE_URL">
+<a href="https://www.youtube.com/channel/UCtTyWx56HH1ZTKio1dAevKA">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a> -->
+</a>
 
 <br><br>
 
@@ -46,43 +45,11 @@
 
 I am an AI researcher working at the intersection of **Generative Models**, **Computer Vision**, and **Trustworthy AI**. I hold an **M.Sc. in Computer Engineering** from the **University of Tehran** (GPA: 19.18/20, **ranked 1st in my cohort**) and a **B.Sc. in Computer Engineering** from the **University of Kashan** (last 2 years GPA: 18.25/20).
 
-My work has been published in venues including **Elsevier Engineering Applications of AI (Q1, IF: 7.5)** and **IEEE Computer Architecture Letters**. I have hands-on industry experience deploying computer vision and generative AI systems at scale, and I am actively seeking **graduate research positions (M.Sc. / Ph.D.)** in AI/ML.
+My work has been published in venues including **Elsevier Engineering Applications of AI (Q1, IF: 8)** and **IEEE Computer Architecture Letters**. I have hands-on industry experience deploying computer vision and generative AI systems at scale, and I am actively seeking **graduate research positions (M.Sc. / Ph.D.)** in AI/ML.
 
 - 🔭 Currently working on **Trustworthy Generative AI** & **Culturally-Aligned Image Generation**
-- 📝 Latest paper: **NU-Class Net** in *Elsevier EAAI* (IF: 7.5, Q1)
 - 🎯 Goal: Graduate research position (M.Sc. / Ph.D.) in AI/ML
 - 💬 Ask me about **Diffusion Models, GANs, Video Enhancement, Model Compression**
-- 🌐 Languages: **English** (IELTS Academic 7.5) · **Persian** (Native)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎓 Education
-
-<table>
-<tr>
-<td><b>🏫 University of Tehran</b></td>
-<td align="right">Sep 2019 – Feb 2023</td>
-</tr>
-<tr>
-<td colspan="2">
-&nbsp;&nbsp;<b>M.Sc. in Computer Engineering (Computer Architecture)</b><br>
-&nbsp;&nbsp;• GPA: <b>19.18/20 (3.88/4)</b> — <b>Ranked 1st</b> in cohort<br>
-&nbsp;&nbsp;• Thesis: <i>"Designing Generative Models for Developing Deep Learning Applications in Video Compression"</i>
-</td>
-</tr>
-<tr><td colspan="2"></td></tr>
-<tr>
-<td><b>🏫 University of Kashan</b></td>
-<td align="right">Sep 2015 – Sep 2019</td>
-</tr>
-<tr>
-<td colspan="2">
-&nbsp;&nbsp;<b>B.Sc. in Computer Engineering (Software Engineering)</b><br>
-&nbsp;&nbsp;• GPA (last two years): <b>18.25/20 (3.96/4)</b> | Cumulative: <b>17.68/20 (3.81/4)</b><br>
-&nbsp;&nbsp;• Thesis: <i>"A Hybrid Deep Learning–SVM Classification Framework"</i>
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -131,17 +98,60 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🎓 Education
+
+<table>
+<tr>
+<td><b>🏫 University of Tehran</b></td>
+<td align="right">Sep 2019 – Feb 2023</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;<b>M.Sc. in Computer Engineering (Computer Architecture)</b><br>
+&nbsp;&nbsp;• GPA: <b>19.18/20 (3.88/4)</b> — <b>Ranked 1st</b> in cohort<br>
+&nbsp;&nbsp;• Thesis: <i>"Designing Generative Models for Developing Deep Learning Applications in Video Compression"</i>
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td><b>🏫 University of Kashan</b></td>
+<td align="right">Sep 2015 – Sep 2019</td>
+</tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;<b>B.Sc. in Computer Engineering (Software Engineering)</b><br>
+&nbsp;&nbsp;• GPA (last two years): <b>18.25/20 (3.96/4)</b> | Cumulative: <b>17.68/20 (3.81/4)</b><br>
+&nbsp;&nbsp;• Thesis: <i>"A Hybrid Deep Learning–SVM Classification Framework"</i>
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td colspan="2">
+&nbsp;&nbsp;🌐 <b>Languages:</b> English (IELTS Academic <b>7.5</b>) · Persian (Native)
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- TODO: Replace "YOUR-REPO-2" with an actual repository name -->
-<a href="https://github.com/parhamzm/NU-Class-Net">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=NU-Class-Net&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/parhamzm/Denoising-Diffusion-Probabilistic-Models">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Denoising-Diffusion-Probabilistic-Models&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/parhamzm/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOUR-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/parhamzm/UNet_for_Segmentation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=UNet_for_Segmentation&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<br>
+<a href="https://github.com/parhamzm/YOLO_for_CarDetection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOLO_for_CarDetection&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/parhamzm/Parkinson-Descriptive-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Parkinson-Descriptive-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -152,7 +162,7 @@ graph LR
 
 | # | Title | Venue | Impact | Year |
 |:-:|-------|-------|:------:|:----:|
-| 1 | **NU‑Class Net: A Novel Deep Learning‑based Approach for Video Quality Enhancement** | *Eng. Applications of AI* (Elsevier) · [DOI](https://doi.org/10.1016/j.engappai.2025.110118) | **IF: 7.5, Q1** | 2025 |
+| 1 | **NU‑Class Net: A Novel Deep Learning‑based Approach for Video Quality Enhancement** | *Eng. Applications of AI* (Elsevier) · [DOI](https://doi.org/10.1016/j.engappai.2025.110118) | **IF: 8, Q1** | 2025 |
 | 2 | **Smart Memory: Deep Learning Acceleration in 3D‑Stacked Memories** | *IEEE Computer Architecture Letters* · [DOI](https://doi.org/10.1109/LCA.2023.3287976) | **IEEE** | 2023 |
 | 3 | **Deep Learning Based on Support Vector Machines** | *5th Nat'l Conf. Distributed Computing & Big Data* | | 2019 |
 | 4 | **Improving Robot Behavior in a Real‑Time Game Using the Grey Wolf Optimizer** | *2nd Int'l Computer Games Conf.* | | 2019 |
@@ -313,8 +323,7 @@ graph LR
 |--------|------|------------|
 | Trustworthy AI | Head T.A. | University of Tehran |
 | Generative Models | T.A. | University of Tehran |
-| Data Analysis *(Dr. Sadeghi & Abolghasemi)* | T.A. | University of Tehran |
-| Data Analysis *(Dr. Sadeghi)* | T.A. | University of Tehran |
+| Data Analysis *(2 semesters)* | T.A. | University of Tehran |
 | Neural Networks & Deep Learning | T.A. | University of Tehran |
 | Machine Learning | Head T.A. | University of Kashan |
 | Discrete Mathematics | Head T.A. | University of Kashan |
@@ -332,12 +341,12 @@ graph LR
 
 | Project | Year |
 |---------|:----:|
-| **Denoising Diffusion Probabilistic Models (DDPM)** — Implemented a DDPM from scratch for image denoising and generation, studying forward/reverse diffusion and variance scheduling | 2024 |
-| **Semantic Segmentation with U‑Net** — Developed a U‑Net model for pixel‑level segmentation of road, vehicle, and pedestrian classes on a self‑driving car dataset | 2023 |
-| **Car Detection with YOLO** — Built a YOLO‑based detection pipeline for street imagery, producing bounding‑box predictions on a real‑world vehicle dataset | 2022 |
+| [**Denoising Diffusion Probabilistic Models (DDPM)**](https://github.com/parhamzm/Denoising-Diffusion-Probabilistic-Models) — Implemented a DDPM from scratch for image denoising and generation, studying forward/reverse diffusion and variance scheduling | 2024 |
+| [**Semantic Segmentation with U‑Net**](https://github.com/parhamzm/UNet_for_Segmentation) — Developed a U‑Net model for pixel‑level segmentation of road, vehicle, and pedestrian classes on a self‑driving car dataset | 2023 |
+| [**Car Detection with YOLO**](https://github.com/parhamzm/YOLO_for_CarDetection) — Built a YOLO‑based detection pipeline for street imagery, producing bounding‑box predictions on a real‑world vehicle dataset | 2022 |
 | **LSTM‑Based Music Generator** — Trained a multi‑layer LSTM for multi‑genre music generation, exploring Delta‑RNN and quantization for inference efficiency | 2022 |
 | **Bio‑Inspired Computing: Optimization Algorithms** — Implemented GA, PSO, K‑Means, and ACO for classical problems including ZOE and Vehicle Routing | 2021 |
-| **Parkinson's Disease Classifier** — Designed and benchmarked 15 classifiers (KNN, DNN, SVM, ensembles) on a 700+ feature clinical dataset, achieving 98.3% accuracy | 2021 |
+| [**Parkinson's Disease Classifier**](https://github.com/parhamzm/Parkinson-Descriptive-Analysis) — Designed and benchmarked 15 classifiers (KNN, DNN, SVM, ensembles) on a 700+ feature clinical dataset, achieving 98.3% accuracy | 2021 |
 | **Generative Adversarial Networks (GAN) Suite** — Constructed and compared DCGAN, C‑GAN, SR‑GAN, and WGAN architectures, analyzing convergence and output fidelity | 2021 |
 
 </details>
@@ -370,7 +379,7 @@ graph LR
 |----------|-------------|
 | 8th Winter Seminar Series (WSS) | Sharif University of Technology |
 | ReACT 2023 | Sharif University of Technology |
-| Scale TransformX | 2022 & 2021 |
+| Scale TransformX (2022 & 2021) | Scale AI |
 | How to be a Teaching Assistant | University of Tehran |
 | 6th IPM Advanced School on Computing & AI | IPM |
 | 5th IPM Advanced School on Computing & AI | IPM |
@@ -385,11 +394,10 @@ graph LR
 <summary><b>Writing, content creation, and community involvement</b> (click to expand)</summary>
 <br>
 
-<!-- TODO: Replace placeholder URLs with actual links -->
 | Activity | Description |
 |----------|-------------|
-| ✍️ **Medium Writer** | Writing about Computer Science and Deep Learning topics |
-| 🎥 **YouTube Content Creator** | Educational content on computer science topics |
+| ✍️ [**Medium Writer**](https://medium.com/@p.zilouchian) | Writing about Computer Science and Deep Learning topics |
+| 🎥 [**YouTube Content Creator**](https://www.youtube.com/channel/UCtTyWx56HH1ZTKio1dAevKA) | Educational content on computer science topics |
 | 🧠 **Neuroscience Workshop** | Member of Executives — Kashan's Introduction to Neuroscience Workshop |
 | 🎓 **CESS** | Member of Executives — University of Kashan Computer Engineering Association |
 
@@ -398,6 +406,10 @@ graph LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
+
+<details>
+<summary><b>Contribution graphs, language breakdown, and streak</b> (click to expand)</summary>
+<br>
 
 <div align="center">
 
@@ -415,48 +427,9 @@ graph LR
 
 <img src="https://streak-stats.demolab.com/?user=parhamzm&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
-<br>
-
-<!-- Snake animation — requires GitHub Actions setup (see instructions below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/parhamzm/parhamzm/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<!--
-  To enable the snake animation:
-  1. Create a file at .github/workflows/snake.yml in your parhamzm/parhamzm repo
-  2. Add the following workflow:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: parhamzm
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the workflow manually once, then it will update daily
--->
-
 </div>
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -469,7 +442,7 @@ graph LR
 | Name | Title | Affiliation |
 |------|-------|-------------|
 | **Dr. Mehdi Modarressi** | Associate Professor | University of Tehran |
-| **Dr. Javad Salimi Sartakhti** | Assistant Professor | University of Kashan |
+| **Dr. Javad Salimi Sartakhti** | Associate Professor | University of Kashan |
 | **Dr. Mohammad Amin Sadeghi** | Senior Scientist | Qatar Computing Research Institute (QCRI) |
 | **Dr. Mostafa Tavassolipour** | Assistant Professor | University of Tehran |
 
