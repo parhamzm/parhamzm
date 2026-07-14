@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Generative+Models;Computer+Vision+%7C+Trustworthy+AI;Open+to+Research+M.Sc.+%26+Ph.D.+Positions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Generative+Models+%7C+Accountable+Agents;Computer+Vision+%7C+Trustworthy+AI;Open+to+Research+M.Sc.+%26+Ph.D.+Positions" alt="Typing SVG" />
 </a>
 
 <br>
@@ -127,30 +127,6 @@ graph LR
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/parhamzm/Denoising-Diffusion-Probabilistic-Models">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Denoising-Diffusion-Probabilistic-Models&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/parhamzm/UNet_for_Segmentation">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=UNet_for_Segmentation&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<br>
-<a href="https://github.com/parhamzm/YOLO_for_CarDetection">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOLO_for_CarDetection&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/parhamzm/Parkinson-Descriptive-Analysis">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Parkinson-Descriptive-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
