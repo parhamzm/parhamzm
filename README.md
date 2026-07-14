@@ -135,19 +135,19 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/parhamzm/Denoising-Diffusion-Probabilistic-Models">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Denoising-Diffusion-Probabilistic-Models&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Denoising-Diffusion-Probabilistic-Models&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/parhamzm/UNet_for_Segmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=UNet_for_Segmentation&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=UNet_for_Segmentation&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 <br>
 <a href="https://github.com/parhamzm/YOLO_for_CarDetection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOLO_for_CarDetection&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=YOLO_for_CarDetection&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/parhamzm/Parkinson-Descriptive-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Parkinson-Descriptive-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=parhamzm&repo=Parkinson-Descriptive-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
